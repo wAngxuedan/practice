@@ -1,0 +1,52 @@
+$(document).ready(function(){
+  $(".head-part-word1").mouseover(function(){
+    $(".head-part-foot1").animate({top:"0px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word1").mouseleave(function(){
+    $(".head-part-foot1").animate({top:"120px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word2").mouseover(function(){
+    $(".head-part-foot2").animate({top:"0px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word2").mouseleave(function(){
+    $(".head-part-foot2").animate({top:"120px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word3").mouseover(function(){
+    $(".head-part-foot3").animate({top:"0px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word3").mouseleave(function(){
+    $(".head-part-foot3").animate({top:"120px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word4").mouseover(function(){
+    $(".head-part-foot4").animate({top:"0px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word4").mouseleave(function(){
+    $(".head-part-foot4").animate({top:"120px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word5").mouseover(function(){
+    $(".head-part-foot5").animate({top:"0px"},"3000");
+  });
+}); 
+$(document).ready(function(){
+  $(".head-part-word5").mouseleave(function(){
+    $(".head-part-foot5").animate({top:"120px"},"3000");
+  });
+}); 
+
+
